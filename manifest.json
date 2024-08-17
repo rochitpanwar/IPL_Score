@@ -1,0 +1,11 @@
+{
+    "name": "IPL score",
+    "version": "1.0.0",
+    "description": "Gives match updates and scores",
+    "manifest_version": 3,
+    "author": "Rochit Panwar",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension"
+    }
+}
